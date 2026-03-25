@@ -1,3 +1,7 @@
+﻿---
+title: "Windows、Linux、命令介面美化"
+description: ""
+---
 # 1. Windows、Linux、命令介面美化
 
 ## 1.1. 簡介
@@ -834,3 +838,4 @@ https://windowsterminalthemes.dev/
 https://www.nerdfonts.com/font-downloads
 [^2]: 2. 官網主題
 https://ohmyposh.dev/docs/themes
+

@@ -1,3 +1,7 @@
+﻿---
+title: "建立python環境在docker上"
+description: ""
+---
 # 1. 建立python環境在docker上
 
 ## 1.1. 簡介
@@ -179,3 +183,4 @@ vim /etc/apache2/conf-enabled/serve-cgi-bin.conf
 
 
 [![image](https://zanehsu.myqnapcloud.com:6876/uploads/images/gallery/2025-08/scaled-1680-/MZd8d44155e-upload-f05fadf2513f553adbff653bc28976f1.png)](https://zanehsu.myqnapcloud.com:6876/uploads/images/gallery/2025-08/MZd8d44155e-upload-f05fadf2513f553adbff653bc28976f1.png)
+

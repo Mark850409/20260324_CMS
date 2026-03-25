@@ -1,3 +1,7 @@
+﻿---
+title: "建立pythonjupytor"
+description: ""
+---
 # 1. 建立pythonjupytor
 
 ## 1.1. 簡介
@@ -94,3 +98,4 @@ volumes:
 
 #### 1.3.3.6. 查看是否能進入主畫面!!!
 [![image](https://zanehsu.myqnapcloud.com:6876/uploads/images/gallery/2025-08/scaled-1680-/7Kpe822122a-upload-ed49ecda269e3fba3fd38feb30d4a9b3.png)](https://zanehsu.myqnapcloud.com:6876/uploads/images/gallery/2025-08/7Kpe822122a-upload-ed49ecda269e3fba3fd38feb30d4a9b3.png)
+

@@ -1,3 +1,7 @@
+﻿---
+title: "如何使用Gitlab結合Gitbook進行版本變更紀錄"
+description: ""
+---
 # 1. 如何使用Gitlab結合Gitbook進行版本變更紀錄
 
 
@@ -405,3 +409,4 @@ https://www.conventionalcommits.org/zh-hant/v1.0.0/
 4.檢查CICD是否有傳入token
 
 [![image](https://zanehsu.myqnapcloud.com:6876/uploads/images/gallery/2025-08/scaled-1680-/rbE79bedb63-upload-275d2422d018cb9b7076ff4ad3f5a521.png)](https://zanehsu.myqnapcloud.com:6876/uploads/images/gallery/2025-08/rbE79bedb63-upload-275d2422d018cb9b7076ff4ad3f5a521.png)
+

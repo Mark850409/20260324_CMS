@@ -1,3 +1,7 @@
+﻿---
+title: "1 Jenkins自動化佈署-與Gitea綁定，透過webhook觸發流程"
+description: ""
+---
 # 1 Jenkins自動化佈署-與Gitea綁定，透過webhook觸發流程
 
 還沒有安裝Jenkins? 請參照這篇[[Jenkins自動化部署-安裝教學]]

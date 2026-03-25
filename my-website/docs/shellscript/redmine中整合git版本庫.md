@@ -1,3 +1,7 @@
+﻿---
+title: "1 redmine中整合git版本庫"
+description: ""
+---
 # 1 redmine中整合git版本庫
 
 ## 1.1 簡介

@@ -1,3 +1,7 @@
+﻿---
+title: "Jenkins結合Redmine和Gitlab進行同步"
+description: ""
+---
 # 1. Jenkins結合Redmine和Gitlab進行同步
 
 還沒有安裝Jenkins? 請參照這篇[[Jenkins自動化部署-安裝教學]]

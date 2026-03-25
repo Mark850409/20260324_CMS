@@ -1,3 +1,7 @@
+﻿---
+title: "sonar-scanner環境建置"
+description: ""
+---
 # 1. sonar-scanner環境建置
 
 ## 1.1. 簡介
@@ -88,4 +92,5 @@ sonar-scanner
 看到此畫面代表成功
 
 [![image](https://zanehsu.myqnapcloud.com:6876/uploads/images/gallery/2025-08/scaled-1680-/Iwr5d7015f9-upload-14b9059bb985972541955d27d39a0054.png)](https://zanehsu.myqnapcloud.com:6876/uploads/images/gallery/2025-08/Iwr5d7015f9-upload-14b9059bb985972541955d27d39a0054.png)
+
 

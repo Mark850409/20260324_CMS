@@ -1,3 +1,7 @@
+﻿---
+title: "1 pycharm設定shellscript環境"
+description: ""
+---
 # 1 pycharm設定shellscript環境
 
 ## 1.1 簡介

@@ -1,3 +1,7 @@
+﻿---
+title: "1 jupyter架設postfix來使用Gmail寄信"
+description: ""
+---
 > [!note] 小提示
 > 以下更多內容可參考此教學文章
 > https://hackmd.io/@fourdollars/SkfnuPrhH

@@ -1,3 +1,7 @@
+﻿---
+title: "Jenkins自動化部署-批次建立FTP帳號"
+description: ""
+---
 # 1. Jenkins自動化部署-批次建立FTP帳號
 
 還沒有安裝Jenkins? 請參照這篇[[Jenkins自動化部署-安裝教學]]
@@ -229,3 +233,4 @@ sh autoBuildSFTP.sh
 [![image-20231005154005042](https://zanehsu.myqnapcloud.com:6876/uploads/images/gallery/2025-08/scaled-1680-/Uqnceb5fe54-image-20231005154005042.png)](https://zanehsu.myqnapcloud.com:6876/uploads/images/gallery/2025-08/Uqnceb5fe54-image-20231005154005042.png)
 
 [![image-20231005154113849](https://zanehsu.myqnapcloud.com:6876/uploads/images/gallery/2025-08/scaled-1680-/Imf44079bc6-image-20231005154113849.png)](https://zanehsu.myqnapcloud.com:6876/uploads/images/gallery/2025-08/Imf44079bc6-image-20231005154113849.png)
+

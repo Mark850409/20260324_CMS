@@ -1,3 +1,7 @@
+﻿---
+title: "1 LAMP-wordpress教學"
+description: ""
+---
 # 1 LAMP-wordpress教學
 
 ## 1.1 簡介

@@ -1,3 +1,7 @@
+﻿---
+title: "基於文字探勘與情感分析的點餐推薦系統-ChatGLM模型建立"
+description: ""
+---
 # 1.  基於文字探勘與情感分析的點餐推薦系統-ChatGLM模型建立
 
 ## 1.1. 簡介
@@ -388,4 +392,5 @@ https://colab.research.google.com/drive/1l8Ybtknzr_SSpeBVchUUWr83Xm7R9PCS#scroll
 [![image](https://zanehsu.myqnapcloud.com:6876/uploads/images/gallery/2025-08/scaled-1680-/OI24ddf1a5d-202407290019769.png)](https://zanehsu.myqnapcloud.com:6876/uploads/images/gallery/2025-08/OI24ddf1a5d-202407290019769.png)
 
 [![image](https://zanehsu.myqnapcloud.com:6876/uploads/images/gallery/2025-08/scaled-1680-/Wir61745588-202407290020253.png)](https://zanehsu.myqnapcloud.com:6876/uploads/images/gallery/2025-08/Wir61745588-202407290020253.png)
+
 

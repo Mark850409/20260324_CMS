@@ -1,3 +1,7 @@
+﻿---
+title: "1 如何使用docker建立sonarqube"
+description: ""
+---
 # 1 如何使用docker建立sonarqube
 
 還沒有安裝Jenkins? 請參照這篇[[Jenkins自動化部署-安裝教學]]

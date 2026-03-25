@@ -1,3 +1,7 @@
+﻿---
+title: "Jenkins自動化部署-自動化產生版號佈版到harbor，並在jenkins產生版更記錄"
+description: ""
+---
 # 1.  Jenkins自動化部署-自動化產生版號佈版到harbor，並在jenkins產生版更記錄
 
 還沒有安裝Jenkins? 請參照這篇[[Jenkins自動化部署-安裝教學]]

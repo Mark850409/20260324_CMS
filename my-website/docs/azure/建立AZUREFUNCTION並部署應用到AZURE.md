@@ -1,3 +1,7 @@
+﻿---
+title: "20231217_AzureFunctionHomeWork"
+description: ""
+---
 # 1. 20231217_AzureFunctionHomeWork
 
 ## 1.1. 簡介
@@ -146,3 +150,4 @@ STEP 5：未輸入任何參數的測試
 [![image-20231217125708168](https://zanehsu.myqnapcloud.com:6876/uploads/images/gallery/2025-08/scaled-1680-/f9H0e03b544-image-20231217125708168.png)](https://zanehsu.myqnapcloud.com:6876/uploads/images/gallery/2025-08/f9H0e03b544-image-20231217125708168.png)
 STEP 6：已輸入正確參數的測試
 [![image-20231217125735038](https://zanehsu.myqnapcloud.com:6876/uploads/images/gallery/2025-08/scaled-1680-/foA5fcf590e-image-20231217125735038.png)](https://zanehsu.myqnapcloud.com:6876/uploads/images/gallery/2025-08/foA5fcf590e-image-20231217125735038.png)
+

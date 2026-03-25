@@ -1,3 +1,7 @@
+﻿---
+title: "1 OpenVpn安裝"
+description: ""
+---
 # 1 OpenVpn安裝
 
 ## 1.1 簡介

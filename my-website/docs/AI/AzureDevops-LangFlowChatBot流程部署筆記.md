@@ -1,3 +1,7 @@
+﻿---
+title: "AzureDevops-LangFlowChatBot流程部署筆記"
+description: ""
+---
 # 1. AzureDevops-LangFlowChatBot流程部署筆記
 
 ## 1.1. 簡介
@@ -659,3 +663,4 @@ az appservice plan create \
 variables:
   - group: AzureCredentials
 ```
+

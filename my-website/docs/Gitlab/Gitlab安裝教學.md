@@ -1,3 +1,7 @@
+﻿---
+title: "Gitlab安裝教學"
+description: ""
+---
 # 1. Gitlab安裝教學
 
 ### 1.1. 簡介

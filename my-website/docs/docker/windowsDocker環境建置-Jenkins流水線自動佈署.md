@@ -1,3 +1,7 @@
+﻿---
+title: "1 windowsDocker環境建置-Jenkins流水線自動佈署"
+description: ""
+---
 # 1 windowsDocker環境建置-Jenkins流水線自動佈署
 
 還沒有安裝Docker? 請參照這篇[[[安裝Docker]]](app://obsidian.md/%E5%AE%89%E8%A3%9DDocker)

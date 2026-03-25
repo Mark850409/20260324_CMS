@@ -1,3 +1,7 @@
+﻿---
+title: "1 Jenkins自動化佈署Python&原始碼掃描&打包Python執行檔&寄信通知"
+description: ""
+---
 # 1. 1 Jenkins自動化佈署Python&原始碼掃描&打包Python執行檔&寄信通知
 
 還沒有安裝Jenkins? 請參照這篇[[Jenkins自動化部署-安裝教學]]

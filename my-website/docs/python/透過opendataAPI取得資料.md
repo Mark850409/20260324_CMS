@@ -1,3 +1,7 @@
+﻿---
+title: "透過opendataAPI取得資料"
+description: ""
+---
 # 1. 透過opendataAPI取得資料
 
 ## 1.1. 簡介
@@ -387,3 +391,4 @@ sendGmailwithattachment()
 [![image-20231024151739537](https://zanehsu.myqnapcloud.com:6876/uploads/images/gallery/2025-08/scaled-1680-/5lH50e35441-image-20231024151739537.png)](https://zanehsu.myqnapcloud.com:6876/uploads/images/gallery/2025-08/5lH50e35441-image-20231024151739537.png)
 
 [![image-20231024151819996](https://zanehsu.myqnapcloud.com:6876/uploads/images/gallery/2025-08/scaled-1680-/M19808cbb9e-image-20231024151819996.png)](https://zanehsu.myqnapcloud.com:6876/uploads/images/gallery/2025-08/M19808cbb9e-image-20231024151819996.png)
+

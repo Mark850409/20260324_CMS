@@ -1,3 +1,7 @@
+﻿---
+title: "HEXONEXT主題客製化設定"
+description: ""
+---
 # 1. HEXONEXT主題客製化設定
 
 ## 1.1. 簡介

@@ -1,3 +1,7 @@
+﻿---
+title: "1 如何客製化自己的主題並打包放到npm平台"
+description: ""
+---
 # 1 如何客製化自己的主題並打包放到npm平台
 
 ## 1.1 簡介
@@ -333,6 +337,7 @@ npm publish
 
 
 [![image](https://zanehsu.myqnapcloud.com:6876/uploads/images/gallery/2025-08/scaled-1680-/0Ljbf011f8d-upload-df8fc1ec4bb6ffdb0a31313903a68323.png)](https://zanehsu.myqnapcloud.com:6876/uploads/images/gallery/2025-08/0Ljbf011f8d-upload-df8fc1ec4bb6ffdb0a31313903a68323.png)
+
 
 
 

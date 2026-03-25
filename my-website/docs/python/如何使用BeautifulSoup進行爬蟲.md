@@ -1,3 +1,7 @@
+﻿---
+title: "如何使用BeautifulSoup進行爬蟲"
+description: ""
+---
 # 1. 如何使用BeautifulSoup進行爬蟲
 
 ## 1.1. 簡介
@@ -73,3 +77,4 @@ for page in range(1, 13):
 
 
 [![image](https://zanehsu.myqnapcloud.com:6876/uploads/images/gallery/2025-08/scaled-1680-/GE3b779a668-upload-9894fa2c19e49318d99156711de7f06e.png)](https://zanehsu.myqnapcloud.com:6876/uploads/images/gallery/2025-08/GE3b779a668-upload-9894fa2c19e49318d99156711de7f06e.png)
+

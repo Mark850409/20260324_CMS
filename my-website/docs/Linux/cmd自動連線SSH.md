@@ -1,3 +1,7 @@
+﻿---
+title: "1 cmd自動連線SSH"
+description: ""
+---
 # 1 cmd自動連線SSH
 
 ## 1.1 簡介

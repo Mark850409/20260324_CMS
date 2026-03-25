@@ -1,3 +1,7 @@
+﻿---
+title: "Jenkins(CICD)自動化佈署-hexo每日自動上傳照片"
+description: ""
+---
 # 1. Jenkins(CICD)自動化佈署-hexo每日自動上傳照片
 
 還沒有安裝Jenkins? 請參照這篇[[Jenkins自動化部署-安裝教學]]

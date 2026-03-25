@@ -1,3 +1,7 @@
+﻿---
+title: "AzureDevopsPipeline自動佈署腳本"
+description: ""
+---
 # 1. AzureDevopsPipeline自動佈署腳本
 
 ## 1.1. 簡介
@@ -795,6 +799,7 @@ DELIMITER ;
 
 3. 部署中心的紀錄可以查看APP SERVICE的是否啟動，也可點選重新整理或是下載來查看紀錄
 [![image-20231019095240503](https://zanehsu.myqnapcloud.com:6876/uploads/images/gallery/2025-08/scaled-1680-/Ciif63109d5-image-20231019095240503.png)](https://zanehsu.myqnapcloud.com:6876/uploads/images/gallery/2025-08/Ciif63109d5-image-20231019095240503.png)
+
 
 
 

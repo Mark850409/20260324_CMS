@@ -1,3 +1,7 @@
+﻿---
+title: "Jenkins自動化部署完成後透過Teams通知"
+description: ""
+---
 # 1. Jenkins自動化部署完成後透過Teams通知
 
 還沒有安裝Jenkins? 請參照這篇[[Jenkins自動化部署-安裝教學]]

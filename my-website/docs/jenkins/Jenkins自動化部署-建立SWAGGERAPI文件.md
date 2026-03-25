@@ -1,3 +1,7 @@
+﻿---
+title: "BuildSwaggerAPI"
+description: ""
+---
 # 1. BuildSwaggerAPI
 
 還沒有安裝Jenkins? 請參照這篇[[Jenkins自動化部署-安裝教學]]

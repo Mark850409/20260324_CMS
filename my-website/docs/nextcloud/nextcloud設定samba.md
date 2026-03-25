@@ -1,3 +1,7 @@
+﻿---
+title: "nextcloud設定samba"
+description: ""
+---
 # 1. nextcloud設定samba
 
 ## 1.1. 簡介
@@ -151,6 +155,7 @@ volumes:
 
 ### 1.4.10. enjoy
 [![image](https://zanehsu.myqnapcloud.com:6876/uploads/images/gallery/2025-08/scaled-1680-/jnlfb99a9f1-upload-18b9af4cbe8555c2fd411b19380fb263.png)](https://zanehsu.myqnapcloud.com:6876/uploads/images/gallery/2025-08/jnlfb99a9f1-upload-18b9af4cbe8555c2fd411b19380fb263.png)
+
 
 
 

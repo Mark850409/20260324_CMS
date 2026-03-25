@@ -1,3 +1,7 @@
+﻿---
+title: "1 如何將打包好的npm package上傳到Gitlab"
+description: ""
+---
 # 1 如何將打包好的npm package上傳到Gitlab
 
 ## 1.1 簡介
@@ -46,9 +50,9 @@
 
 > [!note] 小提示 
 > 1. 首先先說明 下如果要使用**gitlab npm registry**的話，gitlab對於 **package name**名稱是有限制的
->* package name  定要是 @{scope}/ 開頭
->* 如果是 group project 那 {scope} 便是 group name
->* 而如果是 personal project 那 {scope} 便是 user name
+>* package name  定要是 `@{scope}/` 開頭
+>* 如果是 group project 那 `{scope}` 便是 group name
+>* 而如果是 personal project 那 `{scope}` 便是 user name
 >* 而斜線後面的名字則沒有強制規定要跟 repo 名稱相同
 >2. 必填參數如下:
 >* name:請按照上述格式

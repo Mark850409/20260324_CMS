@@ -1,3 +1,7 @@
+﻿---
+title: "1 GAS-SQL出題程式-隨機單選題"
+description: ""
+---
 # 1 GAS-SQL出題程式-隨機單選題
 
 ## 1.1 簡介

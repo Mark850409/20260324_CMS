@@ -1,3 +1,7 @@
+﻿---
+title: "sonarqube環境建置&需求"
+description: ""
+---
 <div class="note info">
        <p>java jdk=11，mysql≥5.6≤8.0</p>
  </div>

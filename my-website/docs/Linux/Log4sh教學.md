@@ -1,3 +1,7 @@
+﻿---
+title: "Log4sh教學"
+description: ""
+---
 # 1. Log4sh教學
 
 ## 1.1. 簡介

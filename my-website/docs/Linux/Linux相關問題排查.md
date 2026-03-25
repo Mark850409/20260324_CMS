@@ -1,3 +1,7 @@
+﻿---
+title: "Linux 相關問題排查"
+description: ""
+---
 # 1. Linux 相關問題排查
 
 ## 1.1. 簡介
@@ -505,4 +509,5 @@ jobservice:
 ```
 
 [![image](https://zanehsu.myqnapcloud.com:6876/uploads/images/gallery/2025-08/scaled-1680-/t2i46e9a53e-202408031753439.png)](https://zanehsu.myqnapcloud.com:6876/uploads/images/gallery/2025-08/t2i46e9a53e-202408031753439.png)
+
 

@@ -1,3 +1,7 @@
+﻿---
+title: "1 Jenkins自動化佈署-自動建置並佈署python到遠端主機"
+description: ""
+---
 # 1 Jenkins自動化佈署-自動建置並佈署python到遠端主機
 
 還沒有安裝Jenkins? 請參照這篇[[Jenkins自動化部署-安裝教學]]

@@ -1,3 +1,7 @@
+﻿---
+title: "LLAMA-Factory建立自己的語言模型"
+description: ""
+---
 # 1. LLAMA-Factory建立自己的語言模型
 
 
@@ -1007,5 +1011,6 @@ ollama run custom_Llama3-8B-q4_k_m:latest
 > * 使用Accerlerate&DeepSpeed進行多卡部署→無效
 > * 參考微調超參數→無效
 > * 使用colab pro實測→OK(1000筆資料訓練OK，但導出即使是PRO版一樣爆記憶體)
+
 
 

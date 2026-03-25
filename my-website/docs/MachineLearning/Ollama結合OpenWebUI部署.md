@@ -1,3 +1,7 @@
+﻿---
+title: "Ollama結合OpenWebUI部署"
+description: ""
+---
 # 1. Ollama結合OpenWebUI部署
 
 安裝Docker[^1]
@@ -146,5 +150,6 @@ ollama list
 [^1]: [[安裝Docker]]
 [^2]: Ollama 模型參考 https://ollama.com/library/
 [^3]:  https://medium.com/@researchgraph/how-to-run-ollama-on-windows-8a1622525ada
+
 
 

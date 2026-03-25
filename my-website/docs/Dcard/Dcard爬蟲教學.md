@@ -1,3 +1,7 @@
+﻿---
+title: "Dcard爬蟲教學"
+description: ""
+---
 # 1. Dcard爬蟲教學
 
 ## 1.1. 簡介
@@ -46,3 +50,4 @@ python dcard_comments_spider.py
 ```
 
 [![image](https://zanehsu.myqnapcloud.com:6876/uploads/images/gallery/2025-08/scaled-1680-/1UU004e770f-202411121834541.png)](https://zanehsu.myqnapcloud.com:6876/uploads/images/gallery/2025-08/1UU004e770f-202411121834541.png)
+

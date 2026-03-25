@@ -1,3 +1,7 @@
+﻿---
+title: "1 安裝DockerRegistryharbor"
+description: ""
+---
 # 1 安裝DockerRegistryharbor
 
 還沒有安裝Docker? 請參照這篇[[[安裝Docker]]](app://obsidian.md/%E5%AE%89%E8%A3%9DDocker)
@@ -243,3 +247,4 @@ WantedBy=multi-user.target
 systemctl enable harbor
 systemctl start harbor
 ```
+
